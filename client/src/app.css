@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-style: normal
+}
+
+body {
+  margin: 0 auto;
+  padding: 2.6em 1.6em 2.6em 1.6em;
+  max-width: 40ch;
+  background-color: #e3dbc3;
+  font: 20px/1.6 sans-serif;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
